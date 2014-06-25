@@ -1,0 +1,26 @@
+items:[
+{
+location:"50,40",
+mediaOptions:14,
+onActionMethodID:"72A664F5-63AA-4661-B876-1F55A787520F",
+onDoubleClickMethodID:"-1",
+onRightClickMethodID:"-1",
+size:"80,20",
+text:"TRY ME",
+typeid:7,
+uuid:"2F1D6C43-0FD6-4610-81F8-6E814E0191ED"
+},
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"6CAFAEAF-94CA-40D6-B78C-3A551DE7545B"
+}
+],
+name:"test",
+navigatorID:"-1",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"8F2B3AD1-647D-4DA5-B914-152244D516B5"

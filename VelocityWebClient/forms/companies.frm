@@ -1,0 +1,17 @@
+dataSource:"db:/udm/companies",
+extendsID:"15EC952E-0EE0-4086-82C7-FA3FF12D96C2",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"2EF3BEE6-1B93-4CA0-B325-5ED8814943ED"
+}
+],
+name:"companies",
+navigatorID:"-1",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"6ACF0A49-5D47-41AF-BA95-694CC3DFD3CE"

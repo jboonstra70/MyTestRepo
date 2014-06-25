@@ -1,0 +1,11 @@
+addEmptyValue:1,
+dataProviderID1:"value_id",
+dataProviderID2:"value1",
+dataSource:"db:/udm/valuelists",
+name:"company_types",
+returnDataProviders:1,
+showDataProviders:2,
+typeid:34,
+useTableFilter:true,
+uuid:"88A0DFAB-9374-4D71-A883-C198B23460FA",
+valueListType:1

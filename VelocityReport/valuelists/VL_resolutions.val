@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Low Res|1\
+High Res|4",
+name:"VL_resolutions",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"51AF41E8-914B-497F-B423-89DE377F8B86"

@@ -1,0 +1,16 @@
+dataSource:"db:/udm/contacts",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"DB0B9CBF-9864-46FA-A336-52915948E891"
+}
+],
+name:"contactgrid",
+navigatorID:"-1",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"C21FAAD5-1C6F-4491-9997-C35B7A6E8F40"

@@ -1,0 +1,16 @@
+dataSource:"db:/udm/contacts",
+extendsID:"83EC32CE-0D97-495E-98B7-1CAB9FC44C5E",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"D37DE7FB-DECC-4979-A504-D0F899FF7D15"
+}
+],
+name:"velocity_modeless",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"61AC28C8-B53D-4E04-9AB3-B8060C08C131"

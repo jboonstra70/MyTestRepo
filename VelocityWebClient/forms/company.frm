@@ -1,0 +1,16 @@
+dataSource:"db:/udm/companies",
+extendsID:"5B63E59A-B045-4CA5-8F83-1E599318EF6E",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A19AFE92-700D-4DF5-B0AC-440E90884B6D"
+}
+],
+name:"company",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"8EB86677-E377-4085-8E80-3A81E746D423"

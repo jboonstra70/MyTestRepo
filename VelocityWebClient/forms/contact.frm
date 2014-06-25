@@ -1,0 +1,17 @@
+dataSource:"db:/udm/contacts",
+extendsID:"5B63E59A-B045-4CA5-8F83-1E599318EF6E",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"8979F23E-D40C-4F47-8AFF-A75B751505B4"
+}
+],
+name:"contact",
+navigatorID:"-1",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"DE58E16D-353F-4DE1-AA54-888CA528BBBC"

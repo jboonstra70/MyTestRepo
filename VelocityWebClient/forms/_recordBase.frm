@@ -1,0 +1,15 @@
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"AD7476EC-9F1A-4B9C-91D9-F2AE3FF9A6DD"
+}
+],
+name:"_recordBase",
+navigatorID:"-1",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"5B63E59A-B045-4CA5-8F83-1E599318EF6E"

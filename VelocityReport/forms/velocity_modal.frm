@@ -1,0 +1,16 @@
+dataSource:"db:/udm/contacts",
+extendsID:"83EC32CE-0D97-495E-98B7-1CAB9FC44C5E",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"C49C22BE-2AE7-43B4-A66C-DD81F6B0D0FB"
+}
+],
+name:"velocity_modal",
+paperPrintScale:100,
+showInMenu:true,
+size:"640,480",
+typeid:3,
+uuid:"1BF47BFE-9074-4020-8ABA-2A4A6E90EAD6"
